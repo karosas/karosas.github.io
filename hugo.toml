@@ -1,0 +1,36 @@
+[module]
+[[module.imports]]
+  path = 'github.com/karosas/hugo-theme-nightfall'
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+title = 'My New Hugo Site'
+theme = "hugo-theme-nightfall"
+baseURL = "/"
+languageCode = "en-us"
+themesDir = "themes"
+paginate = 3
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[menu]
+  [[menu.header]]
+    name = "Blog"
+    weight = 0
+    url = "blog"
+
+[params]
+author = "Edgaras Ausvicas"
+hostname = "edgarasausvicas.com"
+user = "me"
+
+readingTime = false  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "linkedin"
+url = "https://www.linkedin.com/in/eausvicas/"
+icon = "fa-brands fa-linkedin-in"
