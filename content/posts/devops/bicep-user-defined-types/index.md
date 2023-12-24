@@ -1,7 +1,7 @@
 +++
 title = "Bicep's User-Defined Types: Enhancing Configuration Structure"
-date = 2023-12-23T14:36:36+02:00
-draft = true
+date = 2023-12-24T115:00:00+02:00
+draft = false
 +++
 
 > Note - These features are considered experimental and Microsoft doesn't recommend using them in production
