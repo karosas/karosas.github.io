@@ -1,6 +1,6 @@
 +++
 title = "Bicep's User-Defined Types: Enhancing Configuration Structure"
-date = 2023-12-24T115:00:00+02:00
+date = 2023-12-24T14:36:36+02:00
 draft = false
 +++
 
