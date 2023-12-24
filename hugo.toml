@@ -22,12 +22,13 @@ pygmentsUseClasses = true
     url = "blog"
 
 [params]
-author = "Edgaras Ausvicas"
-hostname = "edgarasausvicas.com"
 user = "me"
+hostname = "edgarasausvicas.com"
+  [params.author]
+    name = "Edgaras Ausvicas"
 
 readingTime = false  # Show reading time on post page
-published = true  # Show published data on post page
+published = false  # Show published data on post page
 
 [[params.social]]
 key = 0
