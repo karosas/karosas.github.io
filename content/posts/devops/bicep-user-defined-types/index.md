@@ -57,7 +57,7 @@ Quick example:
 type MyType = { ... }
 
 // module2.bicep
-import { YourCustomType } from './yourModule.bicep'
+import { MyType } from './yourModule.bicep'
 
 param myParam MyType
 ```
