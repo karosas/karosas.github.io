@@ -4,7 +4,7 @@ date = 2024-04-14T20:32:36+02:00
 draft = false
 +++
 
-> Note - These features is in preview and I perform somewhat of hacks to fully automate it
+> Note - This feature is in preview and I perform somewhat of hacks to fully automate it
 
 > TL;DR - Found not really documented preview feature to set up ingress and external dns in aks using bicep. There is Microsoft's guide to achieve same thing using `az` CLI - https://learn.microsoft.com/en-us/azure/aks/app-routing
 
